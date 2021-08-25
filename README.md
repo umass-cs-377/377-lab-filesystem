@@ -1,3 +1,5 @@
+DO NOT USE THIS.  DEPRECATED
+
 # COMPSCI 377 LAB #7: Serialization/Deserialization
 
 ## Purpose
